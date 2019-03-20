@@ -32,8 +32,6 @@ body{
 .name_city{
   color: white;
   font-size: 70px;
-  text-align: center;
-  z-index: 1;
   position: absolute;
   top: 50%;
   left: 50%;
